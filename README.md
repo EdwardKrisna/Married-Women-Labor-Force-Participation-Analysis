@@ -25,4 +25,4 @@ The main objectives of the analysis are:
 4. **Evaluate the impact of wages and family income**: Understand how expected wage rates and family income without the wife’s earnings affect her decision to participate in the labor force.
 
 
-You can read the full analysis in the [Married Women Labor Force Participation Analysis.pdf](Married Women Labor Force Participation Analysis.pdf).
+You can read the full analysis in the Married Women Labor Force Participation Analysis.pdf.
