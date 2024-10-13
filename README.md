@@ -24,14 +24,5 @@ The main objectives of the analysis are:
 3. **Investigate the effect of age**: Analyze how age influences labor force participation.
 4. **Evaluate the impact of wages and family income**: Understand how expected wage rates and family income without the wife’s earnings affect her decision to participate in the labor force.
 
-## Results
 
-- **Number of Young Children**: A strong negative relationship between having young children and labor force participation. Each additional child younger than 6 decreases the odds of participating in the labor force by about 76.8%.
-  
-- **Education**: A woman who attended college has 2.24 times higher odds of participating in the labor force. The husband's education was not found to have a statistically significant effect.
-  
-- **Age**: As a woman’s age increases, the probability of labor force participation decreases by about 6.1% per year.
-
-- **Wage and Income**: Higher expected wages positively influence participation, while higher family income without the wife’s earnings reduces the likelihood of participation.
-
-You can read the full analysis in [Married Women Labor Force Participation.pdf](Married Women Labor Force Participation Analysis.pdf)
+You can read the full analysis in the [Married Women Labor Force Participation Analysis.pdf](Married Women Labor Force Participation Analysis.pdf).
